@@ -7,7 +7,8 @@ A repository comprised of Greenlight's coding challenges and everyone's answers.
 * Every set of challenges will be divided into their own folders based on date, then division.
 * Place your own answers in a new folder within the subfolder of the challenge you participated in, labeled with your name.
 
-Example: (Challenge-10-24-2017)
+Example: 
+- (Challenge-10-24-2017)
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|_(Professional)
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|_(Travis)
 - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|_answers.php

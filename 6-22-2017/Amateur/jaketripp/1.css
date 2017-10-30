@@ -1,0 +1,9 @@
+#main {
+	max-width: 600px;
+	margin: 30vh auto;
+}
+
+body {
+	background-color: #f39c12;
+	overflow: hidden;
+}
